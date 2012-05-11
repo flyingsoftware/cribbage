@@ -9,7 +9,7 @@ After some deep thinking I came to the conclusion that the game of cribbage can 
 
 To start you'll need a C++ compiler.  I chose to use the Borland C++ compiler because it's free for commercial use where as Visual Studio has a free download but it's only allowed for academic work.
 
-Once you get a C++ compiler you can use the Makefile to build the project.  Make also comes with Borland C++.  Make sure you put the Borland executables in your path.  Once in your path you can either edit the Makefile to modify BORLAND_HOME or run "make BORLAND_HOME=<some_path>".
+Once you get a C++ compiler you can use the Makefile to build the project.  Make also comes with Borland C++.  Make sure you put the Borland executables in your path.  Once in your path you can either edit the Makefile to modify BORLAND_HOME or run "make BORLAND_HOME=some_path".
 
 Assuming everyting compiles for you the main executable is main.exe.
 
