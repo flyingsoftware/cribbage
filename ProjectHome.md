@@ -1,0 +1,1 @@
+A framework to develop the ultimate cribbage opponent using computer analysis.
